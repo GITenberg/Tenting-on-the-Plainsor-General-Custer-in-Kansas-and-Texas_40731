@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '40799'
     url: http://www.gutenberg.org/2009/agents/40799
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40731#Tenting-on-the-Plainsor-General-Custer-in-Kansas-and-Texas
 gutenberg_issued: '2012-09-11'
 gutenberg_type: Text
 identifiers:
