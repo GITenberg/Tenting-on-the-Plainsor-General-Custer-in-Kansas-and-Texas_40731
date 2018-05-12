@@ -1,0 +1,39 @@
+_repo: Tenting-on-the-Plainsor-General-Custer-in-Kansas-and-Texas_40731
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Custer, Elizabeth Bacon
+    aliases:
+    - Custer, Elizabeth B. (Elizabeth Bacon)
+    - Custer, Libbie
+    - Custer, Mrs. George Armstrong
+    - Bacon, Elizabeth
+    - Custer, Libby
+    birthdate: 1842
+    deathdate: 1933
+    gutenberg_agent_id: '40799'
+    url: http://www.gutenberg.org/2009/agents/40799
+description: ''
+gutenberg_issued: '2012-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40731'
+  lccn: '04017614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Military life -- History -- 19th century'
+- !lcsh 'United States. Army -- Biography'
+- !lcsh 'Custer, Elizabeth Bacon, 1842-1933'
+- !lcc 'F590.3'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcsh 'West (U.S.) -- History -- 1860-1890'
+- !lcsh 'Custer, George A. (George Armstrong), 1839-1876'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+title: Tenting on the Plains; or, General Custer in Kansas and Texas
+url: http://www.gutenberg.org/ebooks/40731
